@@ -233,7 +233,7 @@ Confidence intervals are derived from the in-sample residual standard deviation 
 ## Project Structure
 
 ```
-BTC-Price-Forecasting/
+BTC-Price-Forecast/
 ├── app.py               # Main Streamlit application (all 5 pages)
 ├── requirements.txt     # Python dependencies
 └── README.md            # This file
@@ -258,7 +258,7 @@ Pages      —  Home / EDA / Statistics / Forecasting / Model Insights
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/Mostafa710/BTC-Price-Forecasting.git
+git clone https://github.com/Mostafa710/BTC-Price-Forecast.git
 cd btc-forecast-lab
 ```
 
