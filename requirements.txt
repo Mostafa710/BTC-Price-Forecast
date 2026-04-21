@@ -1,0 +1,11 @@
+statsmodels
+pmdarima
+prophet
+scikit-learn
+xgboost
+numpy
+scipy
+pandas
+plotly
+kaleido
+streamlit
