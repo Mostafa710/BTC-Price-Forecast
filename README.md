@@ -1,6 +1,6 @@
-# ₿ BTC Forecast Lab
+# ₿ BTC Forecast Project
 
-> A production-quality, multi-page Streamlit web application for **Bitcoin Price Forecasting** — built for an AI Engineering curriculum.
+> A production-quality, multi-page Streamlit web application for **Bitcoin Price Forecasting**
 
 ---
 
